@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
 
-<img src="https://wallpapersafari.com/google-free-wallpaper/" alt="Mountain View" width="1366" height="768">
+<img src="img_girl.jpg" style="max-width:100%;height:auto;">
+
+<p>Resize the browser window.</p>
+
+<p>"max-width:100%" prevents the image from getting bigger than its original size.</p>
+
+<p>However, if you make the browser window smaller, the image will still scale down.</p>
 
 </body>
 </html>
